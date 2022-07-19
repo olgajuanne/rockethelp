@@ -3,7 +3,7 @@ import {useFonts, Roboto_400Regular, Roboto_700Bold} from '@expo-google-fonts/ro
 
 import { THEME } from './src/styles/theme';
 
-import {SignIn} from './src/screens/Signin'
+import { Routes } from './src/routes';
 import { Loading } from './src/components/Loadingtsx';
 
 export default function App() {
@@ -18,7 +18,7 @@ export default function App() {
       />
         
       {/* if ternario */}
-      { fontsLoaded ? <SignIn /> : <Loading />}  
+      { fontsLoaded ? <Routes /> : <Loading />}  
     </NativeBaseProvider>
     
   );
