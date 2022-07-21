@@ -1,6 +1,6 @@
 # RocketHelp
 
-Desenvolver uma aplicação completa com React Native e outras tecnologias, no *Ignite Lab React Native*.
+Desenvolver uma aplicação completa com React Native e outras tecnologias, no **Ignite Lab React Native**.
 
 ## 🚀 Tecnologias
 
@@ -19,8 +19,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Construção de um Aplicativo Mobile com função de organizar pedidos de menutenção usando React Native
 
 
-![login](images/login.png)
-<!-- ![login](images/status.png) -->
+> <img src="images/login.png" width="250">&emsp; <img src="images/new.png" width="250">&emsp; <img src="images/status.png" width="250">&emsp;
+> <img src="images/description2.png" width="250">&emsp; <img src="images/statusend.png" width="250">&emsp; <img src="images/description.png" width="250">
 
 
 ## :memo: Licença
