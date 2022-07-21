@@ -19,8 +19,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Construção de um Aplicativo Mobile com função de organizar pedidos de menutenção usando React Native
 
 
-![login](images/login.png ){:heigth= "36px" width="36px"}.
- ![login](images/status.png)
+![login](images/login.png)
+<!-- ![login](images/status.png) -->
 
 
 ## :memo: Licença
